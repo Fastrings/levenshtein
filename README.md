@@ -1,2 +1,5 @@
 # levenshtein
-Implementation of the levenshtein algorithm to compute edit distance between 2 words
+
+Python implementation of the Damerau-Levenshtein algorithm to compute edit distance between two strings
+
+[text](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance)
