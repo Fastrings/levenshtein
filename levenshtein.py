@@ -111,3 +111,6 @@ if __name__ == "__main__":
         operations = get_operations(lword, rword) # get edit operations from the distance matrix
         steps = get_steps(operations, lword, rword) # compute every string in between the two original ones
         print_steps(steps, operations, lword, rword) # print operations to modify string
+    
+    # TODO: accept sequences other than strings
+    # TODO: static typing
